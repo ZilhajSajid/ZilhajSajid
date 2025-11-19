@@ -22,9 +22,9 @@ API integration and frontend architecture.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ZilhajSajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZilhajSajid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-zilhaj-un-noor-sajid-5b0619154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zilhaj-un-noor-sajid-5b0619154/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdzilhaj.sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdzilhaj.sajid" height="30" width="40" /></a>
-<a href="https://behance.net/https://www.behance.net/zilhajsajidN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zilhajsajidN" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-zilhaj-un-noor-sajid-5b0619154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zilhaj-un-noor-sajid-5b0619154/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mdzilhaj.sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdzilhaj.sajid" height="30" width="40" /></a>
+<a href="https://www.behance.net/zilhajsajidN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zilhajsajidN" height="30" width="40" /></a>
 <a href="https://discord.gg/zilhaj_85809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zilhaj_85809" height="30" width="40" /></a>
 </p>
 
