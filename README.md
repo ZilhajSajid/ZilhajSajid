@@ -1,4 +1,4 @@
-![Banner](./githubBanner2.png)
+![Banner](./Md Zilhaj Un Noor.png)
 # Hi 👋, I'm Md.Zilhaj Un Noor
 
 ### Web Developer passionate about clean UI & smooth UX.
