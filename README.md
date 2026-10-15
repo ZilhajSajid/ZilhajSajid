@@ -1,34 +1,81 @@
-![Banner](./banner.png)
-# Hi 👋, I'm Md.Zilhaj Un Noor
+![GitHub Banner](./banner.png)
 
-### Web Developer passionate about clean UI & smooth UX.
+# Hi 👋, I'm Md. Zilhaj Un Noor
 
-- 🔭 I'm currently working on **Personal projects to strengthen React & Firebase knowledge.**
+### Full-Stack Developer | Building Scalable Web Applications
 
-- 🌱 I'm currently learning **Backend basics with Node.js & Express.**
+I build modern, responsive web applications with a focus on clean architecture, secure APIs, and maintainable code. I'm continuously improving my skills by building real-world projects and exploring modern web technologies.
 
-- 👯 I'm looking to collaborate on **React + Firebase apps (auth, dashboards, CRUD systems)**
+- 🔭 **Currently building:** Full-stack applications with React, Next.js, Node.js, and PostgreSQL.
+- 🌱 **Currently learning:** Advanced TypeScript, Redux, software engineering best practices, and AI integration.
+- 💻 **Specializing in:** REST APIs, authentication, role-based access control, database design, and payment integration.
+- 🚀 **Interested in:** Scalable web applications, backend architecture, and AI-powered applications.
+- 👯 **Open to:** Collaborating on meaningful full-stack projects and contributing to development teams.
+- 📫 **Email:** [zilhajsajid@gmail.com](mailto:zilhajsajid@gmail.com)
+- 🌐 **Portfolio:** [View My Portfolio](https://my-portfolio-eight-liart-27.vercel.app/)
 
-- 🤝 I'm looking for help with **Improving my React/Next.js skills and learning best practices for building scalable web apps.**
+---
 
-- 💬 Ask me about **React, Tailwind, and modern frontend development,
-Building responsive user interfaces,
-Firebase authentication & integration and
-API integration and frontend architecture.**
+### 🤝 Connect with Me
 
-- 📫 How to reach me **zilhajsajid@gmail.com**
-
-- ⚡ Fun fact **I enjoy building real-world apps and learning new tech stacks along the way.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ZilhajSajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZilhajSajid" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-zilhaj-un-noor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zilhaj-un-noor-sajid-5b0619154/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mdzilhaj.sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdzilhaj.sajid" height="30" width="40" /></a>
-<a href="https://www.behance.net/zilhajsajidN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zilhajsajidN" height="30" width="40" /></a>
-<a href="https://discord.gg/zilhaj_85809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zilhaj_85809" height="30" width="40" /></a>
+  <a href="https://github.com/ZilhajSajid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-zilhaj-un-noor/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://my-portfolio-eight-liart-27.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" width="40"/>
+  </a>
+  <a href="mailto:zilhajsajid@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="40" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+---
 
+### 🛠️ Languages, Frameworks & Tools
+
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS"/>
+</p>
+
+#### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" alt="React, Next.js, Tailwind CSS, Redux"/>
+</p>
+
+#### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Node.js, Express, Prisma"/>
+</p>
+
+#### Databases & Authentication
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" alt="PostgreSQL, MongoDB, Firebase"/>
+</p>
+
+#### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Git, GitHub, Postman, VS Code, Vercel"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- **LifeLink BD** — A blood donation and emergency response platform with role-based access, blood request management, and payment integration.
+- **RentNest** — A rental management application with authentication, role-based access control, and REST API development.
+- **Prisma Press** — A blog backend featuring authentication, subscription management, and Stripe payment integration.
+
+Explore more projects on my [GitHub profile](https://github.com/ZilhajSajid).
+
+---
+
+### ⚡ A Little About Me
+
+I enjoy turning ideas into practical software, solving backend challenges, designing reliable APIs, and continuously learning technologies that help me become a better software engineer.
+
+**Always learning. Always building. Always improving.**
